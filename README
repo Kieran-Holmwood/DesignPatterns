@@ -1,8 +1,10 @@
-Hello World TEST LINE
+Design Patterns
 
+This Project is all about learning / using the GoF design patterns, covering common: Behavioural
+ patterns; Stuctural Patters and Creational Patterns.
 
-This Project is all about learning / using design patterns
+The first Pattern looked at will be the command pattern
 
-The first Pattern used will be a command pattern
 
 This pattern will be extended to use mementos
+
