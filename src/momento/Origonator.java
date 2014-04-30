@@ -1,6 +1,6 @@
-package Momento;
+package momento;
 
-import Command.ObjectCommanded;
+import command.ObjectCommanded;
 
 
 public class Origonator{

@@ -1,12 +1,15 @@
-package Client;
+package client;
 
-import Command.*;
-import Momento.Caretaker;
-import Momento.Origonator;
+import momento.Caretaker;
+import momento.Origonator;
+import command.*;
 
 public class Client {
 
 	public static void main(String[] args) {
+		
+		
+	
 		// TODO Auto-generated method stub
 		ObjectCommanded obj = new ObjectCommanded();
 		

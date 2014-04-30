@@ -1,4 +1,4 @@
-package Command;
+package command;
 
 public class ObjectCommanded {
 	private int i = 0;

@@ -1,10 +1,6 @@
 Design Patterns
+This Project is all about learning / using common patterns .Initially I will start by looking at the Command and Memento pattern, following on to look at various other types trying to cover a variety of different patterns from each important part Creational, Structural and Behavioural.
+Basic structure examples for the Command and Memento pattern have been completed using information from Wikipedia, I have now begun a deeper look into the command pattern to create a functional example with real world connotations .
+After the completion of that example I plan to look at the creational patterns Singleton and Factory Methods.  Then build them into the functional example already created in a suitable manor. 
 
-This Project is all about learning / using the GoF design patterns, covering common: Behavioural
- patterns; Stuctural Patters and Creational Patterns.
-
-The first Pattern looked at will be the command pattern
-
-
-This pattern will be extended to use mementos
 

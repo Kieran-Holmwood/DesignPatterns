@@ -1,0 +1,11 @@
+package commandExampleUsage;
+
+
+public class Start {
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub	
+	    Gameloop g = new Gameloop();
+	  	g.start();
+	}
+}
